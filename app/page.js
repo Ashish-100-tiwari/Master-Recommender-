@@ -1,9 +1,10 @@
-import Image from "next/image";
+import Dark from "../app/Dark"
 
 export default function Home() {
+  
   return (
     <>
-    
+    <Dark />
     </>
   );
 }
