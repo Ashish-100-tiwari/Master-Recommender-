@@ -9,8 +9,6 @@ const Header = () => {
                 src="/22.jpg"
                 alt="Hero Image"
                 layout="fill"
-                objectFit="cover"
-                className="h-full w-full"
             />
             <div className="absolute inset-0 bg-black opacity-40"></div>
 
