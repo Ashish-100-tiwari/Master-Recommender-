@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className="relative h-[500px] overflow-hidden">
             <Image
-                src="/2.jpg"
+                src="/22.jpg"
                 alt="Hero Image"
                 layout="fill"
                 objectFit="cover"
