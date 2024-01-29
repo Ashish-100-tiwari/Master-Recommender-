@@ -1,10 +1,10 @@
 "use client"
 import React, { useState } from 'react'
-import Navbar from "@/Components/Navbar/Navbar";
-import Footer from "@/Components/Footer/Footer";
-import Header from "@/Components/Header/Header";
+import Navbar from "../Navbar/Navbar";
+import Footer from "../Footer/Footer";
+import Header from "../Header/Header";
 
-const Dark = () => {
+const MainPage = () => {
   const [darkMode, setDarkMode] = useState(false);
   return (
       <div>
@@ -15,4 +15,4 @@ const Dark = () => {
   )
 }
 
-export default Dark
+export default MainPage;

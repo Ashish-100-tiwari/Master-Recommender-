@@ -1,10 +1,10 @@
-import Dark from "../app/Dark"
+import MainPage from "../Components/Home/Home"
 
 export default function Home() {
   
   return (
     <>
-    <Dark />
+    <MainPage/>
     </>
   );
 }
